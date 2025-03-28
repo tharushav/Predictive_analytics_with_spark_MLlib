@@ -1,0 +1,30 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# macOS files
+.DS_Store
+
+# Spark
+derby.log
+metastore_db/
+
+
+# Remove this if you want to include sample data
+
+# Local configuration
+.env
